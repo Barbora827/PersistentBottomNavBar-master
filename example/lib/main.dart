@@ -307,7 +307,7 @@ class CustomNavBarWidget extends StatelessWidget {
                           ? (item.activeColorSecondary ??
                               item.activeColorPrimary)
                           : item.inactiveColorPrimary,
-                      fontWeight: FontWeight.w400,
+                      fontWeight: FontWeight.w600,
                       fontSize: 16),
                 )),
               ),
